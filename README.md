@@ -1,2 +1,2 @@
 # dio-desafio-github-primeiro-repositorio
-Desafio de projeto repositório
+Repositório criado para criação do projeto github
